@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool: 
-  newagent
+  sasi kumar reddy
   
 
 steps:
